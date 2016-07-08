@@ -8,5 +8,6 @@ public class TestGitHub
 		System.out.println("hello github服务器02");
 		System.out.println("p1,你好");
 		System.out.println("welcome to github");
+		System.out.println("hello github服务器03");
 	}
 }
